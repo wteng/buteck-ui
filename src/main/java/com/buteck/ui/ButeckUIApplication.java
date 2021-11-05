@@ -9,5 +9,4 @@ public class ButeckUIApplication {
     public static void main(String[] args) {
         SpringApplication.run(ButeckUIApplication.class, args);
     }
-
 }
