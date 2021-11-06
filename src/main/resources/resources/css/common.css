@@ -185,7 +185,8 @@ textarea,input,button {
     padding: 0;
     text-align: center;
     color: #ddd;
-    font-size: 14px-webkit-transition:background .2s;
+    font-size: 14px;
+    -webkit-transition:background .2s;
     -moz-transition: background .2s;
     transition: background .2s
 }
